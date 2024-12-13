@@ -1,4 +1,4 @@
-# Dynamic Risk Assessment Model for Highway-Rail Grade Crossings
+# Dynamic Risk Modeling for Rail Crossings
 
 Welcome to the **Dynamic Risk Modeling for Rail Crossings** project! This innovative approach transforms rail safety evaluations by integrating advanced statistical modeling and real-world simulations. Unlike traditional methods that rely on static safety metrics, this project dynamically assesses risks, enabling more proactive and precise interventions. By incorporating meteorological factors, traffic patterns, and safety infrastructure data, it paves the way for a safer, data-driven future in rail crossing management. This initiative focuses on understanding and mitigating risks at highway-rail grade crossings by combining **statistical modeling**, **simulation techniques**, and **real-world data analysis**. By leveraging the innovative **Meteorological-Adjusted Risk Calculator (M.A.R.C.)**, this project quantifies how weather conditions and other factors impact rail crossing safety.
 
@@ -88,8 +88,6 @@ The simulation process forms the backbone of this project by rigorously testing 
 4. **Insights Gained**:
    - Locations with consistent high DRS scores across simulations were flagged as critical for immediate intervention.
    - The results reinforced the importance of integrating meteorological data into safety evaluations.
-- Python-based simulation forecasts risk levels under varying traffic and weather conditions.
-- Monte Carlo simulations test robustness by sampling random weather patterns and traffic variations.
 
 ### **4. Data Visualization**
 - **Heatmaps** identify high-risk crossings.
