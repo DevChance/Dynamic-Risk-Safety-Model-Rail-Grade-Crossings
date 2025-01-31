@@ -1,4 +1,4 @@
-# **Dynamic Risk Modeling for Rail Crossings**
+# **Dynamic Rail Safety Risk Prediction Model**
 
 ## **Overview**
 The **Dynamic Risk Modeling for Rail Crossings** project introduces an advanced approach to rail safety assessment by integrating **statistical modeling**, **real-world data analysis**, and **simulation techniques**. Unlike traditional static evaluations, this project dynamically quantifies risk factors, enabling more proactive and precise interventions. 
