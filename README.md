@@ -96,10 +96,10 @@ where:
 ## **📂 Project Files & Description**
 | **File** | **Description** | **Link** |
 |----------|---------------|----------|
-| **📄 Math111a Final Project Meteorological Impact on Rail Grade Crossings.pdf** | The **full project report**, explaining the methodology, analysis, and conclusions. | [🔗 View Report](#) |
-| **📊 Forecasting Safety: The Meteorological Impact on Highway-Rail Grade Crossing Safety.pdf** | The **project presentation slides**, summarizing key findings and visualizations. | [🔗 View Presentation](#) |
-| **📜 Percentage Change.py** | Computes **percentage changes in risk scores** based on different meteorological conditions using exponential functions. | [🔗 View Code](#) |
-| **🖥️ M.A.R.C. (New Iteration Simulation).py** | Runs **real-world crossing risk simulations** using train speed, traffic volume, and weather data, applying the **MARC formula**. | [🔗 View Code](#) |
+| **📄 Meteorological Impact on Rail Grade Crossings Report** | The **full project report**, explaining the methodology, analysis, and conclusions. | [🔗 View Report](https://github.com/DevChance/Dynamic-Risk-Safety-Model-Rail-Grade-Crossings/blob/main/Meteorlogical%20Impact%20on%20Rail%20Grade%20Crossings%20Report.pdf) |
+| **📊 Forecasting Safety: The Meteorological Impact on Highway-Rail Grade Crossing Safety Brief** | The **project presentation slides**, summarizing key findings and visualizations. | [🔗 View Presentation](https://github.com/DevChance/Dynamic-Risk-Safety-Model-Rail-Grade-Crossings/blob/main/Forecasting%20Safety_%20%20The%20Meteorological%20Impact%20On%20Highway-Rail%20Grade%20Crossing%20Safety.pdf) |
+| **📜 Percentage Change.py** | Computes **percentage changes in risk scores** based on different meteorological conditions using exponential functions. | [🔗 View Code](https://github.com/DevChance/Dynamic-Risk-Safety-Model-Rail-Grade-Crossings/blob/main/Percentage%20Change.py) |
+| **🖥️ M.A.R.C. (New Iteration Simulation).py** | Runs **real-world crossing risk simulations** using train speed, traffic volume, and weather data, applying the **MARC formula**. | [🔗 View Code](https://github.com/DevChance/Dynamic-Risk-Safety-Model-Rail-Grade-Crossings/blob/main/M.A.R.C.(New%20Iteration%20Simulation).py) |
 
 ---
 
