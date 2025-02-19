@@ -2,6 +2,10 @@
 
 # **🚦 Forecasting Safety: The Meteorological Impact on Highway-Rail Grade Crossing Safety**  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevChance/Dynamic-Risk-Safety-Model-Rail-Grade-Crossings/main/MTS.jpg" alt="Rail Crossing Safety">
+</p>
+
 ## **📌 Project Overview**  
 Traditional risk models for highway-rail grade crossings rely heavily on **historical accident data** and **static infrastructure characteristics**, often failing to consider **real-time weather conditions, visibility, and traffic volume fluctuations**.  
 
